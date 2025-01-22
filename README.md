@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-My name is Sebastian
+My name is Sebastian. I'm a Freshman at Stuyvesant High School. I have a strong interest in Software Engineering and Web Development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfn-slxxp)](https://github.com/anuraghazra/github-readme-stats)
+Check out my links:
+[My Website](https://sebastianw.tech)
