@@ -7,3 +7,5 @@ Check out my links:
 [My Website](https://sebastianw.tech)
 
 [My Discord](https://discord.gg/m92geCtJ54)
+
+[Robotics Team I Am A Part Of](https://github.com/StuyPulse)
