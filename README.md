@@ -8,4 +8,4 @@ Check out my links:
 
 [My Discord](https://discord.gg/m92geCtJ54)
 
-[Robotics Team I Am A Part Of](https://github.com/StuyPulse)
+[StuyPulse](https://github.com/StuyPulse)
