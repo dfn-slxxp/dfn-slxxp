@@ -5,5 +5,3 @@ My name is Sebastian. I'm a student at Stuyvesant High School. I have a strong i
 Check out my links:
 
 [My Website](https://slxxplxss.tech)
-
-[StuyPulse](https://github.com/StuyPulse)
