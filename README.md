@@ -4,29 +4,54 @@
 
 Software engineer & photographer · Stuyvesant High School, NYC
 
-[![Website](https://img.shields.io/badge/sebastianw.tech-1747c9?style=flat-square&logo=googlechrome&logoColor=white)](https://sebastianw.tech)
-[![Email](https://img.shields.io/badge/Email-1747c9?style=flat-square&logo=gmail&logoColor=white)](mailto:sebastian@sebastianw.tech)
-![Discord](https://img.shields.io/badge/Discord-_slxxplxss_-1747c9?style=flat-square&logo=discord&logoColor=white)
+[![Website](https://img.shields.io/badge/sebastianw.tech-4e86ff?style=flat-square)](https://sebastianw.tech)
+[![Email](https://img.shields.io/badge/Email-1d4ed8?style=flat-square)](mailto:sebastian@sebastianw.tech)
+![Discord](https://img.shields.io/badge/Discord-slxxplxss-5865F2?style=flat-square&logo=discord&logoColor=white)
+[![GitHub](https://img.shields.io/badge/dfn--slxxp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/dfn-slxxp)
 
 </div>
 
 <br>
 
+I build small, real tools end to end — backend, frontend, and the server they run on — mostly for FRC/FTC robotics and my own day-to-day. Outside of code I shoot car show and wildlife photography.
+
+<br>
+
 ## Building
 
-**[sebastianw.tech](https://sebastianw.tech)** — personal site: coding projects and CC-licensed photography from car shows and wildlife shoots
+<div align="center">
 
-**[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) — Django app for tracking an FRC/FTC merch collection, with live team data pulled from The Blue Alliance and The Orange Alliance
+| | |
+|---|---|
+| **[sebastianw.tech](https://sebastianw.tech)** | Personal site — coding projects and CC-licensed photography from car shows and wildlife shoots |
+| **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC/FTC merch collection, with live team data from The Blue Alliance and The Orange Alliance |
+| **[MoSim Mod Tracker](https://github.com/dfn-slxxp/MoSim-Mod-Tracker)** | LiveSplit-style progress tracker for MoSim robot mods, synced across web, desktop, and phone |
 
-**[MoSim Mod Tracker](https://github.com/dfn-slxxp/MoSim-Mod-Tracker)** — LiveSplit-style progress tracker for MoSim robot mods, synced across web, desktop, and phone
+</div>
 
 <br>
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-1747c9?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1747c9?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1747c9?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-1747c9?style=flat-square&logo=react&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-1747c9?style=flat-square&logo=rust&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1747c9?style=flat-square&logo=sqlite&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+
+</div>
+
+<br>
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dfn-slxxp&show_icons=true&hide_border=true&bg_color=00000000&title_color=4e86ff&icon_color=4e86ff&text_color=8b95a7&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfn-slxxp&layout=compact&hide_border=true&bg_color=00000000&title_color=4e86ff&text_color=8b95a7" />
+
+</div>
