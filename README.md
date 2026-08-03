@@ -51,7 +51,8 @@ I build small, real tools end to end — backend, frontend, and the server they 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dfn-slxxp&show_icons=true&hide_border=true&bg_color=00000000&title_color=4e86ff&icon_color=4e86ff&text_color=8b95a7&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfn-slxxp&layout=compact&hide_border=true&bg_color=00000000&title_color=4e86ff&text_color=8b95a7" />
+![Followers](https://img.shields.io/github/followers/dfn-slxxp?style=flat-square&logo=github&logoColor=white&label=followers&color=4e86ff)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdfn-slxxp&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&logoColor=white&color=4e86ff)
+[![Stars](https://img.shields.io/github/stars/dfn-slxxp/sebastianw.tech?style=flat-square&logo=github&logoColor=white&label=stars%20%C2%B7%20sebastianw.tech&color=4e86ff)](https://github.com/dfn-slxxp/sebastianw.tech)
 
 </div>
