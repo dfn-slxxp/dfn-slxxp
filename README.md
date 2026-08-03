@@ -23,9 +23,9 @@ I build small, real tools end to end — backend, frontend, and the server they 
 
 | | |
 |---|---|
-| **[sebastianw.tech](https://sebastianw.tech)** | Personal site — coding projects and CC-licensed photography from car shows and wildlife shoots |
+| **[sebastianw.tech](https://sebastianw.tech)** | Personal site — coding projects and photography from car shows |
 | **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC/FTC merch collection, with live team data from The Blue Alliance and The Orange Alliance |
-| **[MoSim Mod Tracker](https://github.com/dfn-slxxp/MoSim-Mod-Tracker)** | LiveSplit-style progress tracker for MoSim robot mods, synced across web, desktop, and phone |
+| **[MoSim Mod Tracker](https://mods.sebastianw.tech)** | LiveSplit-style progress tracker for MoSim robot mods, synced across web, desktop, and phone |
 
 </div>
 
