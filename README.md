@@ -13,7 +13,7 @@ Software engineer & photographer · Stuyvesant High School, NYC
 
 <br>
 
-I build small, real tools end to end — backend, frontend, and the server they run on — mostly for FRC/FTC robotics and my own day-to-day. Outside of code I shoot car show and wildlife photography.
+I build tools for things in my life, focusing on Website Development and FRC. In my free time, I photograph cars too!
 
 <br>
 
@@ -24,7 +24,7 @@ I build small, real tools end to end — backend, frontend, and the server they 
 | | |
 |---|---|
 | **[sebastianw.tech](https://sebastianw.tech)** | Personal site — coding projects and photography from car shows |
-| **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC/FTC merch collection, with live team data from The Blue Alliance and The Orange Alliance |
+| **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC merch collection, with live team data from The Blue Alliance |
 | **[MoSim Mod Tracker](https://mods.sebastianw.tech)** | LiveSplit-style progress tracker for MoSim robot mods, synced across web, desktop, and phone |
 
 </div>
@@ -36,12 +36,12 @@ I build small, real tools end to end — backend, frontend, and the server they 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
 </div>
 
@@ -53,6 +53,5 @@ I build small, real tools end to end — backend, frontend, and the server they 
 
 ![Followers](https://img.shields.io/github/followers/dfn-slxxp?style=flat-square&logo=github&logoColor=white&label=followers&color=4e86ff)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdfn-slxxp&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&logoColor=white&color=4e86ff)
-[![Stars](https://img.shields.io/github/stars/dfn-slxxp/sebastianw.tech?style=flat-square&logo=github&logoColor=white&label=stars%20%C2%B7%20sebastianw.tech&color=4e86ff)](https://github.com/dfn-slxxp/sebastianw.tech)
 
 </div>
