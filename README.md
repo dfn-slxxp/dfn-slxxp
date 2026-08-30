@@ -23,9 +23,9 @@ I build tools for things in my life, focusing on Website Development and FRC. In
 
 | | |
 |---|---|
-| **[sebastianw.tech](https://sebastianw.tech)** | Personal site — coding projects and photography from car shows |
-| **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC merch collection, with live team data from The Blue Alliance |
-| **[MoSim Mod Tracker](https://mods.sebastianw.tech)** | LiveSplit-style progress tracker for MoSim robot mods, synced across web, desktop, and phone |
+| **[sebastianw.tech](https://sebastianw.tech)** | Personal site — a host of all my projects and hobbies |
+| **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC merch collection |
+| **[MoSim Mod Tracker](https://mods.sebastianw.tech)** | Progress tracker for MoSim robot mods |
 
 </div>
 
