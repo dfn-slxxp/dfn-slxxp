@@ -6,6 +6,7 @@ Software engineer & photographer · Stuyvesant High School, NYC
 
 [![Website](https://img.shields.io/badge/sebastianw.tech-4e86ff?style=flat-square)](https://sebastianw.tech)
 [![Email](https://img.shields.io/badge/Email-1d4ed8?style=flat-square)](mailto:sebastian@sebastianw.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-waldman/)
 ![Discord](https://img.shields.io/badge/Discord-slxxplxss-5865F2?style=flat-square&logo=discord&logoColor=white)
 [![GitHub](https://img.shields.io/badge/dfn--slxxp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/dfn-slxxp)
 
