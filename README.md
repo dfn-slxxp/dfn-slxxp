@@ -1,4 +1,4 @@
-## Print("Hello World")
+## System.out.println("Hello World");
 
 ```java
 public static class Sebastian {
@@ -16,10 +16,16 @@ public static class Sebastian {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seb@sebastianw.tech)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-waldman)
-
+[![Website](https://img.shields.io/badge/sebastianw.tech-4e86ff?style=flat-square)](https://sebastianw.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-waldman/)
+[![GitHub](https://img.shields.io/badge/dfn--slxxp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/dfn-slxxp)
 </div>
+
+<div align="center">
+[![Email](https://img.shields.io/badge/Email-1d4ed8?style=flat-square)](mailto:sebastian@sebastianw.tech)
+![Discord](https://img.shields.io/badge/Discord-_slxxplxss_-5865F2?style=flat-square&logo=discord&logoColor=white)
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfn-slxxp/dfn-slxxp/output/github-snake-dark.svg" />
