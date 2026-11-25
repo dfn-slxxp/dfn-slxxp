@@ -9,17 +9,8 @@ public static class Sebastian {
     public static String location = "New York, New York";
 
     public static String[] languages = new String[] {"Java", "Python", "C++", "C#", "HTML/CSS/JS"};
-    public static String[] toolkits = new String[]
-
-    name: str = "Sebastian"
-    pronouns: str = "he/him"
-    status: str = "Student at Stuyvesant High School"
-    interests: list = field(default_facotry=lambda: ["Robotics", "Data Science", "ML", "Cybersecurity"])
-    location: str = "New York, NY"
-
-    languages: list = field(default_factory=lambda: ["Python", "Java", "HTML", "CSS"])
-    frameworks: list = field(default_factory=lambda: ["Processing"])
-    toolkit: list = field(default_factory=lambda: ["Git", "VSCode", "Vim"])
+    public static String[] frameworks = new String[] {"Django", "flask"};
+    public static String[] toolkits = new String[] {"Unity", "Git", "VSCode", "Vim", "Linux"};
 }
 ```
 
