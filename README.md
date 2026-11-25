@@ -22,7 +22,7 @@ public static class Sebastian {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-waldman/)
 [![GitHub](https://img.shields.io/badge/dfn--slxxp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/dfn-slxxp)<br>
 [![Email](https://img.shields.io/badge/Email-1d4ed8?style=flat-square)](mailto:sebastian@sebastianw.tech)
-![Discord](https://img.shields.io/badge/Discord-_slxxplxss_-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-\_slxxplxss\_-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </div>
 
