@@ -1,60 +1,37 @@
-<div align="center">
+## Print("Hello World")
 
-# Sebastian Waldman
+```java
+public static class Sebastian {
+    public static String name = "Sebastian";
+    public static String pronouns = "he/him";
+    public static String status = "Core Contributor @ Cascade Studios, Junior @ Stuyvesant High School";
+    public static String[] interests = new String[] {"Robotics", "Game Development", "Photography", "AI/ML"};
+    public static String location = "New York, New York";
 
-Software engineer & photographer · Stuyvesant High School, NYC
+    public static String[] languages = new String[] {"Java", "Python", "C++", "C#", "HTML/CSS/JS"};
+    public static String[] toolkits = new String[]
 
-[![Website](https://img.shields.io/badge/sebastianw.tech-4e86ff?style=flat-square)](https://sebastianw.tech)
-[![Email](https://img.shields.io/badge/Email-1d4ed8?style=flat-square)](mailto:sebastian@sebastianw.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-waldman/)
-![Discord](https://img.shields.io/badge/Discord-slxxplxss-5865F2?style=flat-square&logo=discord&logoColor=white)
-[![GitHub](https://img.shields.io/badge/dfn--slxxp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/dfn-slxxp)
+    name: str = "Sebastian"
+    pronouns: str = "he/him"
+    status: str = "Student at Stuyvesant High School"
+    interests: list = field(default_facotry=lambda: ["Robotics", "Data Science", "ML", "Cybersecurity"])
+    location: str = "New York, NY"
 
-</div>
-
-<br>
-
-I build tools for things in my life, focusing on Website Development and FRC. In my free time, I photograph cars too!
-
-<br>
-
-## Building
-
-<div align="center">
-
-| | |
-|---|---|
-| **[sebastianw.tech](https://sebastianw.tech)** | Personal site — a host of all my projects and hobbies |
-| **[FRC Merch Tracker](https://merch.sebastianw.tech)** · [source](https://github.com/dfn-slxxp/merch-site) | Django app tracking an FRC merch collection |
-| **[MoSim Mod Tracker](https://mods.sebastianw.tech)** | Progress tracker for MoSim robot mods |
-
-</div>
-
-<br>
-
-## Stack
+    languages: list = field(default_factory=lambda: ["Python", "Java", "HTML", "CSS"])
+    frameworks: list = field(default_factory=lambda: ["Processing"])
+    toolkit: list = field(default_factory=lambda: ["Git", "VSCode", "Vim"])
+}
+```
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seb@sebastianw.tech)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-waldman)
 
 </div>
 
-<br>
-
-## Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/dfn-slxxp?style=flat-square&logo=github&logoColor=white&label=followers&color=4e86ff)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdfn-slxxp&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&logoColor=white&color=4e86ff)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfn-slxxp/dfn-slxxp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dfn-slxxp/dfn-slxxp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dfn-slxxp/dfn-slxxp/output/github-snake.svg" />
+</picture>
