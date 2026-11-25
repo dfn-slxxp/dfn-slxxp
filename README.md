@@ -22,8 +22,10 @@ public static class Sebastian {
 </div>
 
 <div align="center">
+    
 [![Email](https://img.shields.io/badge/Email-1d4ed8?style=flat-square)](mailto:sebastian@sebastianw.tech)
 ![Discord](https://img.shields.io/badge/Discord-_slxxplxss_-5865F2?style=flat-square&logo=discord&logoColor=white)
+
 </div>
 
 
